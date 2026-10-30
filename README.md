@@ -166,8 +166,4 @@ This project demonstrates how Python-based data analytics can be used to explore
 
 **Dataset:** Social Media Engagement Dashboard Dataset.
 
-**Dataset Source:** [Abhishek07ma – Social Media Engagement Dashboard](https://github.com/abhishek07ma/Social_Media_Engagement_Dashboard)
-
-**Project Analysis and Notebook:** Aditi Shukla.
-
 **Development Environment:** Google Colab.
